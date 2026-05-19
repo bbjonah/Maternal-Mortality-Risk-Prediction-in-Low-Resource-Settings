@@ -1,7 +1,7 @@
 # ==========================================================
 # Maternal Mortality Risk Prediction in Low-Resource Settings
 # ==========================================================
-# Author: Joshua Joan
+# Author: Jona Buka
 # Description:
 # Machine Learning pipeline for predicting maternal mortality
 # risk using synthetic maternal healthcare data.
